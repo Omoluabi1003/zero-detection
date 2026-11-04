@@ -1,5 +1,19 @@
 # Humanizer
 
+## Project at a glance
+
+**Category:** Human-written style editing skill  
+**Purpose:** Improve naturalness and readability of draft text in compatible coding assistants  
+**Intended readers:** Users, developers and project evaluators  
+**Repository:** https://github.com/Omoluabi1003/zero-detection
+
+**Implementation boundary:** Writing quality cannot guarantee how any AI detector will classify text; avoid implying guaranteed evasion.
+
+The following sections provide the existing development and product details. Confirm live capabilities in source and deployed environments before treating roadmap items as delivered.
+
+---
+
+
 A skill for Claude Code and OpenCode that removes signs of AI-generated writing from text, making it sound more natural and human.
 
 ## Installation
